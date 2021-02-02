@@ -1,3 +1,2 @@
- Starter project to build your first website.  
-Scaler Academy, Build a website Workshop
-https://www.scaler.com
+Hello! This is my personal portfolio website. 
+It gives you insights about my life.
