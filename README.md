@@ -22,7 +22,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" height="270px" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D2217383700%26searchtext%3D&psig=AOvVaw0yTJz26oyQrvur2LzaFK4R&ust=1617342252574000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjH1t2r3O8CFQAAAAAdAAAAABAD" />
 
 ### I am a Computer Science and Engineering Student at Vellore Institute of Technology
 
