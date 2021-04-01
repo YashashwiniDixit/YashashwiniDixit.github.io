@@ -7,9 +7,11 @@
   <h1 align="center"><b>Hello there, I'm Yashashwini 👋</b></h1>
 </p>
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
-</p>
+<div align='center'>
+ 
+![Yashashwini's views](https://komarev.com/ghpvc/?username=YashashwiniDixit)
+
+</div>
 
 <p align="center">
 <br>
