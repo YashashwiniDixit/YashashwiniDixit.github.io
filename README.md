@@ -22,7 +22,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D2217383700%26searchtext%3D&psig=AOvVaw0yTJz26oyQrvur2LzaFK4R&ust=1617342252574000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjH1t2r3O8CFQAAAAAdAAAAABAD" />
+<img align="right" height="270px" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" />
 
 ### I am a Computer Science and Engineering Student at Vellore Institute of Technology
 
