@@ -26,9 +26,9 @@
 ### I am a Computer Science and Engineering Student at Vellore Institute of Technology
 
 -   🔭 I’m currently working on various projects :grin:
--   🌱 I’m a Full Stack Developer and Data Analyst.
+-   🌱 I’m an aspiring Full Stack Developer and Data Analyst.
 -   👯 I’m looking to collaborate with other Developers.
--   🥅 2021 Goals: Contribute to Open Source projects and try out Competitive Coding
+-   🥅 2022 Goals: Contribute to Open Source projects and try out Competitive Coding.
 -   💬 Ask me about anything, I am happy to help :smile:
 -   📬 How to reach me: [Let's get in touch!][linkedin]
 -   🧗 I try to: Go beyond and push my limits
